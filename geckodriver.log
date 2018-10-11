@@ -1,0 +1,743 @@
+1517276342133	geckodriver	INFO	geckodriver 0.19.1
+1517276342141	geckodriver	INFO	Listening on 127.0.0.1:55442
+1517276342825	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.NjO3V1ALykGO"
+1517276343503	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517276346025	Marionette	INFO	Listening on port 55447
+1517276347046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517276347105	Marionette	DEBUG	Register listener.js for window 4294967297
+1517276347921	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517276348130	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517276348130	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517276348610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/robots.txt"
+1517276349223	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/robots.txt"
+1517276352319	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/robots.txt"
+1517276352390	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/robots.txt"
+1517276352390	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/robots.txt"
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://j.gamersky.com/g/mobileesp.js, line 1071: ReferenceError: cookie is not defined
+JavaScript error: http://j.gamersky.com/js/??web2015/js/index.js,web2015/js/vote.js,?20180108, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://www.gamersky.com/autoinc/allsite/allsite_urlnav_inc.htm, line 50: ReferenceError: $ is not defined
+JavaScript error: http://j.gamersky.com/g/QZnav_n.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/js/??g/jquery.gamersky.v4.min.js,web2015/js/lyz.delayLoading.min.js,web2015/comment/js/hotnews.js,?20170721, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://ja1.gamersky.com/gs.tg.all.js, line 314: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/common/tg/fxtg.js, line 166: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/common/tg/allsite.tg.monitor.js, line 285: ReferenceError: jQuery is not defined
+JavaScript error: http://i.gamersky.com/js/removeCookie.js, line 1: ReferenceError: $ is not defined
+1517276354269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/"
+1517276354883	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/"
+1517276359119	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/"
+1517276359202	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/"
+1517276359203	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/"
+1517276359491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1517276359491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1517276359492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1517276359493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1517276360307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/pcgame/"
+1517276360774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+JavaScript error: http://ja.gamersky.com/background/back_index1100.js?_=1517276360589, line 1: SyntaxError: expected expression, got '<'
+1517276361058	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/pcgame/"
+1517276364864	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/pcgame/"
+1517276364945	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/pcgame/"
+1517276364948	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/pcgame/"
+1517276365067	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1517276365068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1517276365731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/"
+1517276365891	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/"
+1517276368966	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/"
+1517276369119	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/"
+1517276369123	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/"
+1517276369743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201710/970068.shtml"
+1517276370545	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201710/970068.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276373584	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201710/970068.shtml"
+1517276373667	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201710/970068.shtml"
+1517276373669	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201710/970068.shtml"
+1517276374497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201712/996250.shtml"
+1517276374825	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201712/996250.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276377867	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201712/996250.shtml"
+1517276378075	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201712/996250.shtml"
+1517276378077	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201712/996250.shtml"
+1517276378579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201711/984900.shtml"
+1517276379082	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201711/984900.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276382141	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201711/984900.shtml"
+1517276382283	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201711/984900.shtml"
+1517276382291	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201711/984900.shtml"
+1517276383001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201712/996554.shtml"
+1517276383264	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201712/996554.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276386301	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201712/996554.shtml"
+1517276386449	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201712/996554.shtml"
+1517276386453	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201712/996554.shtml"
+1517276386951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/ol/"
+1517276387926	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/ol/"
+1517276390966	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/ol/"
+1517276391079	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/ol/"
+1517276391082	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/ol/"
+1517276391433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1517276391434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1517276391434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1517276392101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201801/1007266.shtml"
+1517276392556	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201801/1007266.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276395597	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201801/1007266.shtml"
+1517276395686	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201801/1007266.shtml"
+1517276395689	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201801/1007266.shtml"
+1517276396186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201801/1008639.shtml"
+1517276396597	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201801/1008639.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276399641	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201801/1008639.shtml"
+1517276400089	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201801/1008639.shtml"
+1517276400092	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201801/1008639.shtml"
+1517276400829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201801/1004125.shtml"
+1517276401473	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201801/1004125.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276404546	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201801/1004125.shtml"
+1517276404738	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201801/1004125.shtml"
+1517276404742	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201801/1004125.shtml"
+1517276405287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201801/1005771.shtml"
+1517276405677	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201801/1005771.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276408741	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201801/1005771.shtml"
+1517276408838	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201801/1005771.shtml"
+1517276408854	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201801/1005771.shtml"
+1517276409258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201801/1006474.shtml"
+1517276409786	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201801/1006474.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276412876	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201801/1006474.shtml"
+1517276412963	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201801/1006474.shtml"
+1517276412966	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201801/1006474.shtml"
+1517276413573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201801/1007959.shtml"
+1517276413945	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201801/1007959.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276417307	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201801/1007959.shtml"
+1517276417395	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201801/1007959.shtml"
+1517276417398	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201801/1007959.shtml"
+1517276417807	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/tv/"
+1517276418937	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/tv/"
+1517276421988	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/tv/"
+1517276422068	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/tv/"
+1517276422077	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/tv/"
+1517276422257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1517276422261	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1517276422560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/pc/"
+1517276423599	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/pc/"
+1517276426643	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/pc/"
+1517276426875	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/pc/"
+1517276426878	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/pc/"
+1517276426972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1517276426973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1517276427366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gamersky.com/review/201710/967748.shtml"
+1517276427611	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gamersky.com/review/201710/967748.shtml"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517276431049	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gamersky.com/review/201710/967748.shtml"
+1517276431271	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gamersky.com/review/201710/967748.shtml"
+1517276431275	Marionette	DEBUG	Received DOM event "unload" for "http://www.gamersky.com/review/201710/967748.shtml"
+1517276431418	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/robots.txt"
+1517276434451	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/robots.txt"
+1517276434469	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/robots.txt"
+1517276434469	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/robots.txt"
+1517276434491	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image001_S.jpg"
+1517276438139	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image001_S.jpg"
+1517276438160	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image001_S.jpg"
+1517276438160	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image001_S.jpg"
+1517276438173	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image003_S.jpg"
+1517276441254	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image003_S.jpg"
+1517276441275	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image003_S.jpg"
+1517276441275	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image003_S.jpg"
+1517276441294	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image005_S.jpg"
+1517276444318	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image005_S.jpg"
+1517276444335	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image005_S.jpg"
+1517276444335	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image005_S.jpg"
+1517276444350	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image007_S.jpg"
+1517276447417	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image007_S.jpg"
+1517276447435	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image007_S.jpg"
+1517276447435	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image007_S.jpg"
+1517276447449	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image009_S.jpg"
+1517276450504	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image009_S.jpg"
+1517276450519	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image009_S.jpg"
+1517276450520	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image009_S.jpg"
+1517276450534	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image011_S.jpg"
+1517276453567	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image011_S.jpg"
+1517276453582	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image011_S.jpg"
+1517276453582	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image011_S.jpg"
+1517276453596	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image012_S.jpg"
+1517276456659	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image012_S.jpg"
+1517276456690	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image012_S.jpg"
+1517276456691	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image012_S.jpg"
+1517276456704	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image014_S.jpg"
+1517276459809	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image014_S.jpg"
+1517276460015	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image014_S.jpg"
+1517276460016	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/10/20171025_jzx_296_4/image014_S.jpg"
+1517276460273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://imgs.gamersky.com/robots.txt"
+1517276460444	Marionette	DEBUG	Received DOM event "pageshow" for "http://imgs.gamersky.com/robots.txt"
+1517276463507	Marionette	DEBUG	Received DOM event "beforeunload" for "http://imgs.gamersky.com/robots.txt"
+1517276463526	Marionette	DEBUG	Received DOM event "pagehide" for "http://imgs.gamersky.com/robots.txt"
+1517276463526	Marionette	DEBUG	Received DOM event "unload" for "http://imgs.gamersky.com/robots.txt"
+1517276463537	Marionette	DEBUG	Received DOM event "pageshow" for "http://imgs.gamersky.com/pic/2017/20171125_xzy_420_1.jpg"
+1517276466559	Marionette	DEBUG	Received DOM event "beforeunload" for "http://imgs.gamersky.com/pic/2017/20171125_xzy_420_1.jpg"
+1517276466576	Marionette	DEBUG	Received DOM event "pagehide" for "http://imgs.gamersky.com/pic/2017/20171125_xzy_420_1.jpg"
+1517276466576	Marionette	DEBUG	Received DOM event "unload" for "http://imgs.gamersky.com/pic/2017/20171125_xzy_420_1.jpg"
+1517276466589	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image003_S.jpg"
+1517276469629	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image003_S.jpg"
+1517276469646	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image003_S.jpg"
+1517276469646	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image003_S.jpg"
+1517276469658	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image005_S.jpg"
+1517276472693	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image005_S.jpg"
+1517276472706	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image005_S.jpg"
+1517276472706	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image005_S.jpg"
+1517276472719	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image007_S.jpg"
+1517276573463	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image007_S.jpg"
+1517276573479	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image007_S.jpg"
+1517276573479	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image007_S.jpg"
+1517276573493	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image009_S.jpg"
+1517276576544	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image009_S.jpg"
+1517276576562	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image009_S.jpg"
+1517276576562	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/11/20171130_gxh_289_5/image009_S.jpg"
+1517276576582	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01origin_01_201712281425DF2_S.jpg"
+1517276579659	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01origin_01_201712281425DF2_S.jpg"
+1517276579679	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01origin_01_201712281425DF2_S.jpg"
+1517276579679	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01origin_01_201712281425DF2_S.jpg"
+1517276579691	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01small_02_20171228142522C_S.jpg"
+1517276582756	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01small_02_20171228142522C_S.jpg"
+1517276582773	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01small_02_20171228142522C_S.jpg"
+1517276582773	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_01small_02_20171228142522C_S.jpg"
+1517276582786	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02origin_03_20171228142555D_S.jpg"
+1517276585848	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02origin_03_20171228142555D_S.jpg"
+1517276585868	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02origin_03_20171228142555D_S.jpg"
+1517276585868	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02origin_03_20171228142555D_S.jpg"
+1517276585883	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02small_04_20171228142587A_S.jpg"
+1517276588952	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02small_04_20171228142587A_S.jpg"
+1517276588969	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02small_04_20171228142587A_S.jpg"
+1517276588969	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2017/12/20171228_gy_385_2/gamersky_02small_04_20171228142587A_S.jpg"
+1517276588981	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_01small_02_201811810196A1.jpg"
+1517276592021	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_01small_02_201811810196A1.jpg"
+1517276592039	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_01small_02_201811810196A1.jpg"
+1517276592040	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_01small_02_201811810196A1.jpg"
+1517276592052	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_02small_04_20181181019BC9.jpg"
+1517276595109	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_02small_04_20181181019BC9.jpg"
+1517276595128	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_02small_04_20181181019BC9.jpg"
+1517276595128	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_02small_04_20181181019BC9.jpg"
+1517276595139	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_03small_06_20181181019112.jpg"
+1517276598196	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_03small_06_20181181019112.jpg"
+1517276598217	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_03small_06_20181181019112.jpg"
+1517276598217	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_03small_06_20181181019112.jpg"
+1517276598232	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_04small_08_20181181019527.jpg"
+1517276601293	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_04small_08_20181181019527.jpg"
+1517276601313	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_04small_08_20181181019527.jpg"
+1517276601313	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_04small_08_20181181019527.jpg"
+1517276601324	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_05small_10_20181181019BAF.jpg"
+1517276604350	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_05small_10_20181181019BAF.jpg"
+1517276604367	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_05small_10_20181181019BAF.jpg"
+1517276604367	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_05small_10_20181181019BAF.jpg"
+1517276604382	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_06small_12_20181181019337.jpg"
+1517276607428	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_06small_12_20181181019337.jpg"
+1517276607447	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_06small_12_20181181019337.jpg"
+1517276607447	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_06small_12_20181181019337.jpg"
+1517276607466	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_07small_14_201811810199F3.jpg"
+1517276610524	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_07small_14_201811810199F3.jpg"
+1517276610542	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_07small_14_201811810199F3.jpg"
+1517276610542	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_07small_14_201811810199F3.jpg"
+1517276610554	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_08small_16_20181181019218.jpg"
+1517276613579	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_08small_16_20181181019218.jpg"
+1517276613592	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_08small_16_20181181019218.jpg"
+1517276613592	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_08small_16_20181181019218.jpg"
+1517276613604	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_10small_20_20181181019E57.jpg"
+1517276616648	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_10small_20_20181181019E57.jpg"
+1517276616670	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_10small_20_20181181019E57.jpg"
+1517276616670	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_10small_20_20181181019E57.jpg"
+1517276616682	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_11small_22_201811810195DF.jpg"
+1517276651422	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_11small_22_201811810195DF.jpg"
+1517276651439	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_11small_22_201811810195DF.jpg"
+1517276651439	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180118_zcq_252_1/gamersky_11small_22_201811810195DF.jpg"
+1517276651453	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_01small_02_20181251510790.jpg"
+1517276654517	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_01small_02_20181251510790.jpg"
+1517276654535	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_01small_02_20181251510790.jpg"
+1517276654535	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_01small_02_20181251510790.jpg"
+1517276654547	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_02small_04_20181251510C2F.jpg"
+1517276657611	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_02small_04_20181251510C2F.jpg"
+1517276657628	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_02small_04_20181251510C2F.jpg"
+1517276657629	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_02small_04_20181251510C2F.jpg"
+1517276657643	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_03small_06_20181251510297.jpg"
+1517276660704	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_03small_06_20181251510297.jpg"
+1517276660725	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_03small_06_20181251510297.jpg"
+1517276660725	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_03small_06_20181251510297.jpg"
+1517276660740	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_04small_08_201812515107E6.jpg"
+1517276663798	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_04small_08_201812515107E6.jpg"
+1517276663820	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_04small_08_201812515107E6.jpg"
+1517276663820	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_04small_08_201812515107E6.jpg"
+1517276663831	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_10small_20_20181251510916.jpg"
+1517276666858	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_10small_20_20181251510916.jpg"
+1517276666879	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_10small_20_20181251510916.jpg"
+1517276666879	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_10small_20_20181251510916.jpg"
+1517276666899	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_05small_10_201812515104CC.jpg"
+1517276669961	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_05small_10_201812515104CC.jpg"
+1517276669982	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_05small_10_201812515104CC.jpg"
+1517276669983	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_05small_10_201812515104CC.jpg"
+1517276669997	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_07small_14_201812515102DC.jpg"
+1517276673034	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_07small_14_201812515102DC.jpg"
+1517276673060	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_07small_14_201812515102DC.jpg"
+1517276673060	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_07small_14_201812515102DC.jpg"
+1517276673082	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_06small_12_20181251510B54.jpg"
+1517276676134	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_06small_12_20181251510B54.jpg"
+1517276676152	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_06small_12_20181251510B54.jpg"
+1517276676152	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_06small_12_20181251510B54.jpg"
+1517276676165	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_08small_16_20181251510964.jpg"
+1517276679199	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_08small_16_20181251510964.jpg"
+1517276679216	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_08small_16_20181251510964.jpg"
+1517276679216	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_08small_16_20181251510964.jpg"
+1517276679229	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_09small_18_20181251510154.jpg"
+1517276682267	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_09small_18_20181251510154.jpg"
+1517276682290	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_09small_18_20181251510154.jpg"
+1517276682290	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_09small_18_20181251510154.jpg"
+1517276682310	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_11small_22_20181251510DFC.jpg"
+1517276685403	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_11small_22_20181251510DFC.jpg"
+1517276685416	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_11small_22_20181251510DFC.jpg"
+1517276685416	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180125_zcq_252_1/gamersky_11small_22_20181251510DFC.jpg"
+1517276685428	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180129_hzh_432_2/image001_S.jpg"
+1517276688454	Marionette	DEBUG	Received DOM event "beforeunload" for "http://img1.gamersky.com/image2018/01/20180129_hzh_432_2/image001_S.jpg"
+1517276688472	Marionette	DEBUG	Received DOM event "pagehide" for "http://img1.gamersky.com/image2018/01/20180129_hzh_432_2/image001_S.jpg"
+1517276688472	Marionette	DEBUG	Received DOM event "unload" for "http://img1.gamersky.com/image2018/01/20180129_hzh_432_2/image001_S.jpg"
+1517276688491	Marionette	DEBUG	Received DOM event "pageshow" for "http://img1.gamersky.com/image2018/01/20180129_hzh_432_2/image003_S.jpg"
+1517396446501	geckodriver	INFO	geckodriver 0.19.1
+1517396446523	geckodriver	INFO	Listening on 127.0.0.1:54896
+1517396447172	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.pzxJah4FBGX1"
+1517396448145	Marionette	INFO	Enabled via --marionette
+1517396450959	Marionette	INFO	Listening on port 54901
+1517396451398	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517396461527	geckodriver	INFO	geckodriver 0.19.1
+1517396461541	geckodriver	INFO	Listening on 127.0.0.1:54935
+1517396462113	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.kVqdrhPXH52l"
+1517396463080	Marionette	INFO	Enabled via --marionette
+1517396467412	geckodriver	INFO	geckodriver 0.19.1
+1517396467424	geckodriver	INFO	Listening on 127.0.0.1:54954
+1517396468060	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.bxV97nTuhprX"
+1517396468709	Marionette	INFO	Enabled via --marionette
+1517396470489	Marionette	INFO	Listening on port 54960
+1517396470686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517572146071	geckodriver	INFO	geckodriver 0.19.1
+1517572146097	geckodriver	INFO	Listening on 127.0.0.1:64459
+1517572146717	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.sXRHYytwBMGQ"
+1517572147689	Marionette	INFO	Enabled via --marionette
+1517572150117	Marionette	INFO	Listening on port 64464
+1517572150948	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517654665513	geckodriver	INFO	geckodriver 0.19.1
+1517654665526	geckodriver	INFO	Listening on 127.0.0.1:52563
+1517654666129	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.2yrEfDX4ELBU"
+1517654667222	Marionette	INFO	Enabled via --marionette
+1517654669652	Marionette	INFO	Listening on port 52569
+1517654670356	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517822465129	geckodriver	INFO	geckodriver 0.19.1
+1517822465152	geckodriver	INFO	Listening on 127.0.0.1:50158
+1517822465762	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.fWrdYeJlwrHI"
+1517822467450	Marionette	INFO	Enabled via --marionette
+1517822470484	Marionette	INFO	Listening on port 50163
+1517822470996	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://j.gamersky.com/g/mobileesp.js, line 1071: ReferenceError: cookie is not defined
+JavaScript error: http://j.gamersky.com/js/??web2015/js/index.js,web2015/js/vote.js,?20180108, line 1: ReferenceError: jQuery is not defined
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517822482403	geckodriver	INFO	geckodriver 0.19.1
+1517822482413	geckodriver	INFO	Listening on 127.0.0.1:50229
+1517822482979	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.yQmqusFgo2ZZ"
+1517822483642	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1517822485470	Marionette	INFO	Listening on port 50234
+1517822485632	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://js.users.51.la/450821.js, line 1: TypeError: t[0] is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://js.users.51.la/450821.js, line 1: TypeError: t[0] is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://js.users.51.la/450821.js, line 1: TypeError: t[0] is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1517823150415	geckodriver	INFO	geckodriver 0.19.1
+1517823150422	geckodriver	INFO	Listening on 127.0.0.1:50712
+1517823151043	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.H5wsM8uHzsPh"
+1517823151786	Marionette	INFO	Enabled via --marionette
+1517823153846	Marionette	INFO	Listening on port 50717
+1517823154155	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517828012773	geckodriver	INFO	geckodriver 0.19.1
+1517828012780	geckodriver	INFO	Listening on 127.0.0.1:51413
+1517828013377	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.gTZ7pIO1i8Wl"
+1517828014052	Marionette	INFO	Enabled via --marionette
+1517828015892	Marionette	INFO	Listening on port 51418
+1517828016002	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517902099024	geckodriver	INFO	geckodriver 0.19.1
+1517902099042	geckodriver	INFO	Listening on 127.0.0.1:51473
+1517902099629	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.sHSt8Ge7N6TD"
+1517902102532	Marionette	INFO	Enabled via --marionette
+1517902505027	geckodriver	INFO	geckodriver 0.19.1
+1517902505035	geckodriver	INFO	Listening on 127.0.0.1:51619
+1517902505649	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.CtE8nxOX51CG"
+1517902506299	Marionette	INFO	Enabled via --marionette
+1517902508553	Marionette	INFO	Listening on port 51624
+1517902508841	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://j.gamersky.com/g/mobileesp.js, line 1071: ReferenceError: cookie is not defined
+JavaScript error: http://j.gamersky.com/js/??web2015/js/index.js,web2015/js/vote.js,?20180108, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://ja1.gamersky.com/www/index_feturegame.js?_=1517902512805, line 88: TypeError: $(...).gameRatingFun is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://js.users.51.la/450821.js, line 1: TypeError: t[0] is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://js.users.51.la/450821.js, line 1: TypeError: t[0] is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517902671662	geckodriver	INFO	geckodriver 0.19.1
+1517902671670	geckodriver	INFO	Listening on 127.0.0.1:51908
+1517902672298	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.fIe2YcCMpv4F"
+1517902672962	Marionette	INFO	Enabled via --marionette
+1517902674651	Marionette	INFO	Listening on port 51913
+1517902674914	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517903013173	geckodriver	INFO	geckodriver 0.19.1
+1517903013180	geckodriver	INFO	Listening on 127.0.0.1:52303
+1517903013825	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.5EuQQY7Vd6zb"
+1517903014522	Marionette	INFO	Enabled via --marionette
+1517903016275	Marionette	INFO	Listening on port 52308
+1517903016441	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://api.share.baidu.com/getnum?url=http%3A%2F%2Fwww.gamersky.com%2Freview%2F201801%2F1007266.shtml&callback=bd__cbs__ijguf2, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517905935492	geckodriver	INFO	geckodriver 0.19.1
+1517905935508	geckodriver	INFO	Listening on 127.0.0.1:53194
+1517905936102	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.GaK0xnQOYKsM"
+1517905937171	Marionette	INFO	Enabled via --marionette
+1517905939100	Marionette	INFO	Listening on port 53199
+1517905939297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517906093845	geckodriver	INFO	geckodriver 0.19.1
+1517906093845	geckodriver	INFO	Listening on 127.0.0.1:53523
+1517906094611	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.UOdxS5n5ONWQ"
+1517906095898	Marionette	INFO	Enabled via --marionette
+1517906097544	Marionette	INFO	Listening on port 53528
+1517906097768	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://j.gamersky.com/g/mobileesp.js, line 1071: ReferenceError: cookie is not defined
+JavaScript error: http://j.gamersky.com/js/??web2015/js/index.js,web2015/js/vote.js,?20180108, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://www.gamersky.com/autoinc/allsite/allsite_urlnav_inc.htm, line 50: ReferenceError: $ is not defined
+JavaScript error: http://j.gamersky.com/g/QZnav_n.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/js/??g/jquery.gamersky.v4.min.js,web2015/js/lyz.delayLoading.min.js,web2015/comment/js/hotnews.js,?20170721, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://ja1.gamersky.com/gs.tg.all.js, line 314: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/common/tg/fxtg.js, line 166: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/common/tg/allsite.tg.monitor.js, line 285: ReferenceError: jQuery is not defined
+JavaScript error: http://i.gamersky.com/js/removeCookie.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://j.gamersky.com/web2015/js/paging1.js, line 115: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/web2015/js/list.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gamersky.com/autoinc/allsite/allsite_urlnav_inc.htm, line 50: ReferenceError: $ is not defined
+JavaScript error: http://j.gamersky.com/g/QZnav_n.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://ja1.gamersky.com/tips/all_tips.js, line 25: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/g/jquery.gamersky.v4.min.js, line 112: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/web2015/js/Search.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://ja1.gamersky.com/gs.tg.all.js, line 314: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/common/tg/fxtg.js, line 166: ReferenceError: jQuery is not defined
+JavaScript error: http://j.gamersky.com/common/tg/allsite.tg.monitor.js, line 285: ReferenceError: jQuery is not defined
+JavaScript error: http://i.gamersky.com/js/removeCookie.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1517906640091	geckodriver	INFO	geckodriver 0.19.1
+1517906640099	geckodriver	INFO	Listening on 127.0.0.1:54482
+1517906640757	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.cY8PjWY1HcUc"
+1517906641790	Marionette	INFO	Enabled via --marionette
+1517906644125	Marionette	INFO	Listening on port 54487
+1517906644977	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1523768594090	geckodriver	INFO	geckodriver 0.19.1
+1523768594118	geckodriver	INFO	Listening on 127.0.0.1:56423
+1523768594730	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.wJD83R0Di4Sv"
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+1523768596654	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+1523768599688	Marionette	INFO	Listening on port 56428
+1523768600058	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 11876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13252, Chrome_ChildThread] WARNING: pipe error: 109: *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523768655392	geckodriver	INFO	geckodriver 0.19.1
+1523768655403	geckodriver	INFO	Listening on 127.0.0.1:56502
+1523768656083	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.lWpB0MkynIuZ"
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+1523768657696	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+1523768659710	Marionette	INFO	Listening on port 56509
+1523768660302	Marionette	WARN	TLS certificate errors will be ignored for this session
+[[Child 1496, Chrome_ChildThread] WARNING:Chi pld 44ip24, Chre ome_Chierror:ldThrea 109: file z:/build/build/src/ipc/chromium/src/chrome/common/idp] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lince_channel_win.cc, line 346 346
+
+[C[Child 4424, Chrome_Chih
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+8	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+1523768712040	Marionette	INFO	Listening on port 56570
+1523768712282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1530100783462	geckodriver	INFO	geckodriver 0.19.1
+1530100783486	geckodriver	INFO	Listening on 127.0.0.1:54253
+1530100784073	mozrunner::runner	INFO	Running command: "C:\\Software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MCrac\\AppData\\Local\\Temp\\rust_mozprofile.qUrPsBOQrXLy"
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+1530100789179	Marionette	INFO	Listening on port 54258
+1530100789424	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MCrac\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://api.share.baidu.com/getnum?url=http%3A%2F%2Fwww.gamersky.com%2Freview%2F201806%2F1058441.shtml&callback=bd__cbs__6wx566, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
